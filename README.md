@@ -1,2 +1,2 @@
-# apple-products-analytics-mini-project
-Mini project using Python
+# Apple Products Analytics Mini Project
+Mini project using Python via Jupyter Notebook
